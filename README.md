@@ -9,3 +9,6 @@
   
   o que tenho estudado
   areas de interesse
+
+
+![Gmail Badge](https://img.shields.io/badge/Gmail-limafreitas.vinicius%40gmail.com-orange)
