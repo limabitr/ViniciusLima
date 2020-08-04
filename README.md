@@ -15,4 +15,4 @@
 <br/> :closed_lock_with_key: :books: Estudando: Pentest e Python voltados ao Desenvolvimento Web.
 
 
-![Outlook Badge](https://img.shields.io/badge/Gmail-limafreitas.vinicius%40gmail.com-orange)
+![Outlook Badge](https://img.shields.io/badge/Outlook-vinicius.limaadcg%40hotmail.com-blue)
