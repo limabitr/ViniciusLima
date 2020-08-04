@@ -1,1 +1,11 @@
-# ViniciusLima
+## Hey, how are u?
+  
+  # About me
+  Meu nome é Vinícius, sou brasileiro, tenho 19 anos e estou apaixonado por programação e pelo aprendizado que ela tem me proporcionado. Tudo começa com o impacto que a tecnologia tem causado na vida das pessoas. A programação, especificamente, é uma área diferenciada e posso provar pela definição que dou ao universo da computação: uma área direcionada a encontrar soluções para outras áreas, uma importante engrenagem do nosso mundo.
+  
+  Bom, por ser justamente um universo pelo qual estou apaixonado, tudo é incrível, é prático, criativo, inspirador, mas aprendi que é preciso foco para alcançar resultados eficazes.
+   
+   :computer:   &nbsp; Estudante autodidata
+  
+  o que tenho estudado
+  areas de interesse
