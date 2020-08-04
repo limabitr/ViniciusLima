@@ -4,7 +4,7 @@
   My name is Vinícius, I'm from Brazil, I'm 19 and I am passionate about computing as a whole and the learning it has provided me. It all starts over the impact of technology on people's lives. It's a differentiated area and I can prove it with the definition that I give to the computing universe: an area aimed at finding useful solutions for other areas, an important cog in our world.
   
   Well, because it's a universe that I'm passionate about, everything is incredible, practical, creative, inspiring, but I learned that focus is necessary to achieve efficient results and, therefore, CyberSecurity is an area that I am most interested and passionate about.
-### Finally, I believe in the individual and group capacity of human beings to change the world, impact people around them and those impact others and so on. It is methodical, it takes time, but it is possible to make a difference wherever I am, as much as professional or person or my dream.
+### Finally, I believe in the individual and group capacity of human beings to change the world, impact people around them and those impact others and so on. It is methodical, it takes time, but it is possible to make a difference wherever I am, as much as professional or person. This is my dream.
 
 ---
 # Sobre mim
@@ -14,7 +14,7 @@
   Por fim, acredito na capacidade individual e grupal do ser humano de mudar o mundo, de impactar pessoas à sua volta e estas impactarem outras e assim por diante. É metódico, leva tempo, mas é possível e fazer a diferença onde eu estiver, tanto como profissional quanto como pessoa é o meu sonho.    
    
 <br/> :computer: Estudante autodidata
-<br/> :closed_lock_with_key: Estudando Pentesting
+<br/> :closed_lock_with_key: Estudando: Pentest e Python voltados ao Desenvolvimento Web. :books:
 
 
 ![Gmail Badge](https://img.shields.io/badge/Gmail-limafreitas.vinicius%40gmail.com-orange)
