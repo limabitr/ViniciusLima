@@ -1,5 +1,3 @@
-## Hey, how are u?
-  
   # About me
   My name is Vinícius, I'm from Brazil, I'm 19 and I am passionate about computing as a whole and the learning it has provided me. It all starts over the impact of technology on people's lives. It's a differentiated area and I can prove it with the definition that I give to the computing universe: an area aimed at finding useful solutions for other areas, an important cog in our world.
   
