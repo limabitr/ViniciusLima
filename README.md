@@ -12,7 +12,7 @@
 #### Por fim, acredito na capacidade individual e grupal do ser humano de mudar o mundo, de impactar pessoas à sua volta e estas impactarem outras e assim por diante. É metódico, leva tempo, mas é possível e fazer a diferença onde eu estiver, tanto como profissional quanto como pessoa é o meu sonho.    
    
 <br/> :computer: Estudante autodidata
-<br/> :closed_lock_with_key: Estudando: Pentest e Python voltados ao Desenvolvimento Web. :books:
+<br/> :closed_lock_with_key: :books: Estudando: Pentest e Python voltados ao Desenvolvimento Web.
 
 
 ![Gmail Badge](https://img.shields.io/badge/Gmail-limafreitas.vinicius%40gmail.com-orange)
